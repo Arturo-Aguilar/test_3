@@ -1,3 +1,5 @@
+//este codigo es para iniciar el servidor
+
 var request = require('supertest'); 
 var app = require('../server.js');
 describe('GET /', function() {   
